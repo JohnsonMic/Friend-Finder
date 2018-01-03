@@ -1,0 +1,49 @@
+var friends = [
+  {
+      "name":"Homegirl",
+      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "scores":[
+         5,
+         1,
+         4,
+         4,
+         5,
+         1,
+         2,
+         5,
+         4,
+         1
+          ]
+      },
+  {
+  "name":"Homeboy",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
+{
+  "name":"Angel",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+     9,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+      ]
+},
