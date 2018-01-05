@@ -1,7 +1,7 @@
 var friends = [
   {
-      "name":"Homegirl",
-      "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+      "name":"Lisa",
+      "photo":"https://i.pinimg.com/originals/cd/4b/bd/cd4bbd23d01356696e7081a43299d305.png",
       "scores":[
          5,
          1,
@@ -16,8 +16,8 @@ var friends = [
           ]
       },
   {
-  "name":"Homeboy",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Michael",
+  "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumb10.shutterstock.com%2Fdisplay_pic_with_logo%2F100254%2F127431713%2Fstock-vector-white-cartoon-homeboy-127431713.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fmischievous-redhaired-boy-gestures-emotions-608066588&docid=CGRAHMKjlt8dBM&tbnid=NTdkTkWufCdp8M%3A&vet=1&w=355&h=470&bih=441&biw=911&ved=0ahUKEwjjm6v_iL3YAhUL3IMKHeBUB-cQxiAIGCgB&iact=c&ictx=1",
   "scores":[
      5,
      1,
@@ -31,19 +31,4 @@ var friends = [
      1
       ]
 },
-{
-  "name":"Angel",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-  "scores":[
-     9,
-     1,
-     4,
-     4,
-     5,
-     1,
-     2,
-     5,
-     4,
-     1
-      ]
-},
+module.exports = friends;
