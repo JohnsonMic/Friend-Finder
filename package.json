@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "This is a Friend-Finder app, with a survey that will best match with a new friend. The app utilizes HTML, Javascript and node express. App is lauch on Heroku.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnsonMic/Friend-Finder.git"
+  },
+  "author": "Michelle Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnsonMic/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/JohnsonMic/Friend-Finder#readme"
+}
