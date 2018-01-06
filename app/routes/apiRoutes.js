@@ -1,6 +1,6 @@
 var friendData  = require('../data/friends.js');
 var path  = require('path');
-
+var static= require ("static");
 var totalDifference = 0;
 
 module.exports = function(app){
